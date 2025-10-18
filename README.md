@@ -1,4 +1,3 @@
-[![MasterHead](https://camo.githubusercontent.com/1f2b99d9ff2aac4d8b4a52382c1ea0696cfca5a05fbcbfba7b722b959fea00d2/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966)](https://rahilsaiyed1711.io)
 <h1 align="center">Hi 👋, I'm Saiyed Rahil</h1>
 <h3 align="center">A Learning MERN Stack Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
